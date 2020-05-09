@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sanity">
+	<test verbose = "2" name = "sanitytest">
+			<classes>
+				<class name = "BatchTesting.LoginTest"/>
+				<class name = "BatchTesting.SignUpTest"/>
+			</classes>
+	</test>
+</suite>	
